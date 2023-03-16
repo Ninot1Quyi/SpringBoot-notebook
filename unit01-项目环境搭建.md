@@ -14,7 +14,7 @@
 
 1.JDK：1.8版本及以上
 
-2.maven：配置到idea，3.6.1,[一定要看的Macen配置过程**](Maven使用和配置.md)
+2.maven：配置到idea，3.6.1,[一定要看的Macen配置过程](Maven使用和配置.md)
 
 3.数据库：MariaDB、MySQL，5.1及以上
 
