@@ -54,7 +54,7 @@ spring.datasource.password=qy.Ninot.52
 
 ## **这里一定要注意使用的是MySQL，另外是视频中使用的navicat的版本是专业版，我就下载错了使用的是navicat-sqlserver，导致navicat一直找不到MySQL，心态炸裂**
 
-专业版相关网站【https://www.jianshu.com/p/4bb2e2bfb449】
+专业版navicat的破解版需自行查找下载
 
 ## **应该使用MySQL，教程中未使用SQL Server，以下配置过程可以跳过，<a href="#3.6">[点此跳过]</a>到下一步：**
 
