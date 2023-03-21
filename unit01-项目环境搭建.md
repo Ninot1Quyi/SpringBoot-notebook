@@ -1,3 +1,5 @@
+**提示：若看不到图片，请加速github，图床位于github上，可能会由于网络问题造成图片无法显示。加速工具可以选择[Watt Toolkit - 瓦特工具箱(Steam++官网) (steampp.net)](https://steampp.net/)**
+
 # 1.项目分析
 
 1.项目功能:登录、注册、热销商品、用户管理(密码、个人信息、头像、收货地址）、 购物车（展示、增加、删除)、订单模块。
@@ -14,11 +16,11 @@
 
 1.JDK：1.8版本及以上
 
-2.maven：配置到idea，3.6.1,[一定要看的Macen配置过程](Maven使用和配置.md)
+2.开发的平台: idea专业版，[学生申请专业版IDEA的方法](HFUT学生申请专业版IDEA步骤.md)
 
-3.数据库：MariaDB、MySQL，5.1及以上
+3.maven：配置到idea，3.6.1,[一定要看的Macen配置过程](Maven使用和配置.md)
 
-4.开发的平台: idea开发
+4.数据库：MariaDB、MySQL，5.1及以上
 
 ![image-20230316161949264](https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230316161949264.png)
 
