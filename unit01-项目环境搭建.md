@@ -1,4 +1,4 @@
-**提示：若看不到图片，请加速github，图床位于github上，可能会由于网络问题造成图片无法显示。加速工具可以选择[Watt Toolkit - 瓦特工具箱(Steam++官网) (steampp.net)](https://steampp.net/)，该工具加速失败问题解决方案[[点此跳转]](Watt Toolkit加速github相关问题.md)**
+**提示：若看不到图片，请加速github，图床位于github上，可能会由于网络问题造成图片无法显示。加速工具可以选择[Watt Toolkit - 瓦特工具箱(Steam++官网) (steampp.net)](https://steampp.net/)，该工具加速失败问题解决方案[点此跳转](Watt Toolkit加速github相关问题.md)**
 
 # 1.项目分析
 
