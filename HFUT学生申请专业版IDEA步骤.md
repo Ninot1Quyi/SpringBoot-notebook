@@ -6,20 +6,20 @@
 
 1.2“登录”进去
 
-<img src="assets/image-20230321093815018.png" alt="image-20230321093815018" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321094937983.png" alt="image-20230321093815018" style="zoom:50%;" />
 
 1.3在该处申请学校的邮箱
 
-<img src="assets/image-20230321093940106.png" alt="image-20230321093940106" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321094355829.png" alt="image-20230321093940106" style="zoom: 33%;" />
 
 1.4在IDEA申请免费专业版，打开网页   [JetBrains 学习产品](https://www.jetbrains.com/shop/eform/students)  ，填写下表，提交审请，按照提示进行操作。
 
-<img src="assets/image-20230321094937983.png" alt="image-20230321094937983" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321093940106.png" alt="image-20230321094937983" style="zoom: 33%;" />
 
 ## 2.下载专业版IDEA
 
 2.1进入官网 [IntelliJ IDEA – 领先的 Java 和 Kotlin IDE (jetbrains.com)](https://www.jetbrains.com/zh-cn/idea/)，滑到页面底部，选择如下版本。
 
-<img src="assets/image-20230321094355829.png" alt="image-20230321094355829" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/Ninot1Quyi/Typora-s-picture/master/img/image-20230321093815018.png" alt="image-20230321094355829" style="zoom: 33%;" />
 
 2.2安装并启动，在启动后会要求激活软件，1.4时申请到的有免费资格的账号进行登录即可。
